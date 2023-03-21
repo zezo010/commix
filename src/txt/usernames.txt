@@ -8,7 +8,9 @@ accounting
 ad
 adm
 admin
+Admin
 administrator
+Administrator
 adver
 advert
 advertising
